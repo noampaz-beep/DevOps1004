@@ -39,3 +39,4 @@ for num in n:
 ## way 2 : loop in single line
 result= [num *2 for num in n if num>2]
 
+print("gg")
