@@ -5,3 +5,5 @@ for i in range(100):
         print(f"{i} ")
 else:
     print("finish")
+
+print("ddd")
