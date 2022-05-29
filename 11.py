@@ -11,3 +11,6 @@ def url_caller(url):
 
 for url in ["https://github.com", "https://google.com"]:
     url_caller(url)
+
+
+print("fff")
