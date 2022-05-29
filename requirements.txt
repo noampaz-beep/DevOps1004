@@ -1,0 +1,7 @@
+requests~=2.27.1
+awscli
+flask
+
+
+# pip install -r requirements.txt
+Pillow~=9.1.0
